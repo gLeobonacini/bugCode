@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BUG Code</string>
+    <string name="txtInputUserName">User Name</string>
+    <string name="txtInputPassword">Password</string>
+    <string name="txtBtLogin">Login</string>
+    <string name="txtSemConta">Não tem conta? Cadastre-se</string>
+</resources>
